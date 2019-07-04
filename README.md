@@ -6,8 +6,8 @@ to build the Ixia Cloudlens CSMP self hosted infrastructure.
 
 This scripts builds 4 Ubuntu 18.04 LTS machines that will be used as:
 
--- 1 VM named "registry" -- 192.168.241.53
--- 3 VMs, named: "U1", "U2", "U3"  to build the Docker Swarm cluster -- 192.168.241.53-5
+ -- 1 VM named "registry" -- 192.168.241.53
+ -- 3 VMs, named: "U1", "U2", "U3"  to build the Docker Swarm cluster -- 192.168.241.53-5
 
 ## Prerequisites
 
