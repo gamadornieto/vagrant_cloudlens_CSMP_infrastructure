@@ -17,12 +17,12 @@ Install vagrant-disksize plugin
 
 ## Commands
 
- # create the VMs
+ * create the VMs
 vagrant plugin install vagrant-disksize
 vagrant up
- # to SSH to any machine type
+ * to SSH to any machine type
 vagrant ssh U1
- # to destroy the VMs
+ * to destroy the VMs
 vagrant destroy --force
 
 If you are already an Ixia customer you should download the Ixia Cloudlens Manager image (.ova for instance) using your Ixia support account.
